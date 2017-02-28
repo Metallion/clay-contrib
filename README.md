@@ -1,2 +1,5 @@
-# clay-systemd
-the systemd service files for clay
+# clay-contrib
+
+## rpm spec files
+
+## systemd service files
