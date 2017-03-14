@@ -1,5 +1,5 @@
 # clay-contrib
 
-## rpm spec files
+## Creating a RPM package
 
-## systemd service files
+* [rpm spec files](https://github.com/qb0C80aE/clay-contrib/tree/develop/pkg)
