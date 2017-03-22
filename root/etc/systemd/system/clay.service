@@ -3,8 +3,8 @@ Description=Virtual Network designer GUI Clay
 After=network.target
 
 [Service]
-WorkingDirectory=/data/clay/
-ExecStart=/data/clay/clay
+WorkingDirectory=/opt/qb0C80aE/clay/
+ExecStart=/opt/qb0C80aE/clay/clay
 EnvironmentFile=/etc/sysconfig/clay
 
 [Install]
