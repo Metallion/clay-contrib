@@ -1,0 +1,11 @@
+[Unit]
+Description=Virtual Network designer GUI Clay
+After=network.target
+
+[Service]
+WorkingDirectory=/data/clay/
+ExecStart=/data/clay/clay
+EnvironmentFile=/etc/sysconfig/clay
+
+[Install]
+WantedBy=multi-user.target
